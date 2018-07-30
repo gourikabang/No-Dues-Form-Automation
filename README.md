@@ -2,7 +2,7 @@
  Django Based Project to automate the process of "NO DUES FORM" at IIT guwahati.
  
 ### Follow these steps to run the project: 
-  1. Clone git repo from https://github.com/patoliyam/No-Dues-Form-Automation-within-IIT-Guwahati.git
+  1. Clone git repo from https://github.com/gourikabang/No-Dues-Form-Automation.git
   2. Make sure your device has django installed in it.
   3. Open windows cmd or ubuntu terminal.
   4. Go to the project direcctory "NDF"
